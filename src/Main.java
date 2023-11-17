@@ -4,5 +4,6 @@ public class Main {
         Orange orange = new Orange();
         int x=10;
         System.out.println(x);
+        System.out.println(y);
     }
 }
